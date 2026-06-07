@@ -1,0 +1,13 @@
+# Frontend generated artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+
+# Backend generated artifacts
+backend/data/
+
+# SQLite files
+*.db
+*.db-wal
+*.db-shm
