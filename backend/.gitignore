@@ -1,0 +1,4 @@
+# Local SQLite development artifacts
+*.db
+*.db-wal
+*.db-shm
