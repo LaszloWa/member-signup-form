@@ -76,8 +76,7 @@ go test ./...
 
 1. Add structured request logging and request IDs.
 2. Add PostgreSQL repository implementation for production-oriented deployments.
-3. Expand API contract tests for failure modes and edge cases.
-4. Add CI workflow to run backend tests and frontend lint/build/e2e on each PR.
+3. Add CI workflow to run backend tests and frontend lint/build/e2e on each PR.
 
 ## AI usage disclosure
 
